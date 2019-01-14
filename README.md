@@ -1,4 +1,5 @@
 # My Projects List:
 
-* This site was built using [GitHub Pages](https://pages.github.com/).
+* [Panormas and Stiching](https://github.cs.huji.ac.il/amitaidabbah/Panorama-Registration-and-Stitching) - performing automatic ”StereoMosaicking” .
+
 
