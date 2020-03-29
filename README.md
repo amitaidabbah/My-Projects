@@ -1,7 +1,7 @@
 
 # My Projects List:
 
-* [User-Threads](https://github.com/amitaidabbah/User-Threads/tree/master) - a functionalstatic library, that creates and manages user level threads
+* [User-Threads](https://github.com/amitaidabbah/User-Threads/tree/master) - a functional static library, that creates and manages user level threads
 * [MapReduce](https://github.com/amitaidabbah/MapReduce) - Multi-threaded Programming of map Reduce.
 * [Virtual-Memory](https://github.com/amitaidabbah/Virtual-Memory) - Hierarchical Page Tables
 * [Panormas and Stiching](https://github.com/amitaidabbah/Panorama-Registration-and-Stitching) - Performing automatic ”StereoMosaicking” .
